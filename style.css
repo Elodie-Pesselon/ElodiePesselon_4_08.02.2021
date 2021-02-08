@@ -1040,3 +1040,15 @@ h4 {
         text-align: center;
     }
 }
+
+/* Modifications de mise en forme suite à l'audit */ 
+
+.bloc2_h2 {
+    max-width: 600px;
+    margin: auto;
+}
+
+.bloc4_h2 {
+    max-width: 450px;
+    margin: auto;
+}
