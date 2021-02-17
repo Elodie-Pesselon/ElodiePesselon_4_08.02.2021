@@ -660,7 +660,7 @@ label,
 }
 
 .hero-bloc-text {
-    font-size: 38px;
+    font-size: 43px;
 }
 
 .hero-bloc-text-sub {
@@ -678,7 +678,7 @@ label,
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -772,7 +772,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #E35713;
+    background-color: #E35714;
 }
 
 .tc-white {
@@ -811,7 +811,7 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 .bg-lines-h2-bg {
